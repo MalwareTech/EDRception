@@ -1,0 +1,1 @@
+See: [https://malwaretech.com/2023/12/silly-edr-bypasses-and-where-to-find-them.html](https://malwaretech.com/2023/12/silly-edr-bypasses-and-where-to-find-them.html)
